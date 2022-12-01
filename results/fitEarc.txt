@@ -1,0 +1,18 @@
+ALLOTETRAPLOID MODEL, AUTO FITTED 
+         k-mer length: 21 
+  monoploid k-mer cov: 43.9 
+      theta per k-mer: 0.0213 
+ theta per nucleotide: 0.00101 
+                    T: 50 
+     non-rep GS (Mbp): 178.8 
+    bias (peak width): -1.9 
+ diverg per k-mer: 1.0652 
+diverg per nucleotide: 0.0507 
+
+STARTING RANGES (MIN MAX) 
+  monoploid k-mer cov: 37 65 
+log10 theta per k-mer: -2 0.6 
+                    T: 0.001 100 
+     non-rep GS (Mbp): 6 9 
+    bias (peak width): -3 -1 
+              x range: 38 222

@@ -1,0 +1,14 @@
+DIPLOID MODEL, AUTO FITTED 
+         k-mer length: 21 
+  monoploid k-mer cov: 54.5 
+      theta per k-mer: 0.0224 
+ theta per nucleotide: 0.00107 
+     non-rep GS (Mbp): 165.9 
+    bias (peak width): -2 
+
+STARTING RANGES (MIN MAX) 
+  monoploid k-mer cov: 10 100 
+log10 theta per k-mer: -2 0.6 
+     non-rep GS (Mbp): 6 9 
+    bias (peak width): -3 -1 
+              x range: 29 142
