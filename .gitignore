@@ -2,3 +2,6 @@
 *fastq
 *fq.gz
 *fq
+*bin
+*.kmc_pre
+*.kmc_suf
