@@ -5,3 +5,5 @@
 *bin
 *.kmc_pre
 *.kmc_suf
+*dump
+*join
